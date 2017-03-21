@@ -1,0 +1,5 @@
+C:\Users\h3pst3v\Desktop\VaultTecToolkit\VaultTecToolkit\bin\Release\VaultTecToolkit.dll
+C:\Users\h3pst3v\Desktop\VaultTecToolkit\VaultTecToolkit\bin\Release\VaultTecToolkit.pdb
+C:\Users\h3pst3v\Desktop\VaultTecToolkit\VaultTecToolkit\obj\Release\VaultTecToolkit.dll
+C:\Users\h3pst3v\Desktop\VaultTecToolkit\VaultTecToolkit\obj\Release\VaultTecToolkit.pdb
+C:\Users\h3pst3v\Desktop\VaultTecToolkit\VaultTecToolkit\obj\Release\VaultTecToolkit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,90 @@
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.exe.config
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.exe
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.pdb
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.csprojResolveAssemblyReference.cache
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Hauptfenster.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Properties.Resources.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.csproj.GenerateResource.Cache
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.exe
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.pdb
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungenAnzeigen.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Facebook.dll
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\VaultTecToolkit.dll
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Facebook.xml
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\VaultTecToolkit.pdb
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungErstellen.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungHinzufügen.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.MitarbeiterAnzeigen.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AdministrativerBereich.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\MP3_Player.Form1.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Meldung.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Informationsfenster.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AdminHinzufügen.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.SudoBereich.resources
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\CSharpCustomTabControl.exe
+C:\Users\h3pst3v\Desktop\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\CSharpCustomTabControl.pdb
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.exe.config
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.exe
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.pdb
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\VaultTecToolkit.dll
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\CSharpCustomTabControl.pdb
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Facebook.xml
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\VaultTecToolkit.pdb
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.csprojResolveAssemblyReference.cache
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AdminHinzufügen.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AdministrativerBereich.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Informationsfenster.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Meldung.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\MP3_Player.Form1.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Hauptfenster.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungenAnzeigen.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungErstellen.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungHinzufügen.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.MitarbeiterAnzeigen.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Properties.Resources.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.SudoBereich.resources
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.csproj.GenerateResource.Cache
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.exe
+E:\Wichtige Dateien\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.pdb
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.exe.config
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.exe
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.pdb
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Facebook.xml
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\VaultTecToolkit.pdb
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.csprojResolveAssemblyReference.cache
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AdminHinzufügen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AdministrativerBereich.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Informationsfenster.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Meldung.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\MP3_Player.Form1.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Hauptfenster.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungenAnzeigen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungErstellen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungHinzufügen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.MitarbeiterAnzeigen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Properties.Resources.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.csproj.GenerateResource.Cache
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.exe
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.pdb
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.exe.config
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.exe
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Lohnabrechnungssystem.pdb
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\Facebook.xml
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\bin\Debug\VaultTecToolkit.pdb
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.csprojResolveAssemblyReference.cache
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AdminHinzufügen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AdministrativerBereich.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Informationsfenster.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Meldung.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\MP3_Player.Form1.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Hauptfenster.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungenAnzeigen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungErstellen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.LohnabrechnungHinzufügen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.MitarbeiterAnzeigen.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.Properties.Resources.resources
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.csproj.GenerateResource.Cache
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.exe
+C:\Users\hepstev\Desktop\Projektarbeit Rolke - Kopie\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.pdb
+C:\Users\hepstev\Desktop\Projektarbeit Rolke\Finales Programm\Lohnabrechnungssystem\Lohnabrechnungssystem\obj\Debug\Lohnabrechnungssystem.AlleLohnabrechnungen.resources
